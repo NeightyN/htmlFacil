@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html lang=”pt-br”>
+ <head>
+ <meta charset=”UTF-8”>
+ <title>Cadastro de Veículo</title>
+<link rel="stylesheet" type="text/css" href="aparencia.css"/>
+
+ </head>
+
+ <body>
+
+
+<div id="centro"> 
+
+
+<div id="cabecalho">
+
+<div id="imaag">
+<img src="imagens-carros.jpg" width="200"></div>
+
+<p align: right>
+<font style="color: Silver ; font-size: 56pt;font-family:Impact, Charcoal, sans-seri"><i>CARRO</font>
+<font style="color: FireBrick ; font-size: 56pt;font-family:Impact, Charcoal, sans-seri">NEGÓCIO</i></font></p> 
+
+<div id="menu">
+	<ul>
+		<li><a href="home.html">Home</a></li>
+		<li><a href="cadastrar.html">Cadastrar</a></li>
+
+		<!--<li><a href="#">Missão</a></li>
+		<li><a href="#">Links</a></li>-->
+
+		<li><a href="contato.html">Contato</a></li>
+	</ul>
+</div>	
+
+</div>
+
+
+<div id="principal"> <right><div id="imag">
+	<img src="imagens-carros.jpg" width="200"></div></right>
+<br>
+<br>
+<br>
+<br>
+<br>
+		<font style="color: FireBrick ; font-size: 16pt;font-family:Impact, Charcoal, sans-seri">Bem vindo ao seu site para cadastro de veículos!</font>
+<br>
+<br>
+		<p align: left><font style="color: DimGray ; font-size: 14pt;font-family:Impact, Charcoal, sans-seri">SAIBA TUDO QUE VOCÊ TEM DE FAZER NO DETRAN PARA VENDER OU COMPRAR UM VEÍCULO</font></p> 
+<p align: left><font style="color: DimGray ; font-size: 12pt;font-family:Arial, Arial, sans-seri"><dd>O processo é simples, mas fundamental para que você não tenha nenhum transtorno.</dd>Como se sabe, vender o carro e não transferir corretamente a documentação pode dar <dd>muita dor de cabeça, 
+como multas e pontos, na CNH, produzidos pelo comprador.</dd>
+<dd>
+E, para a tranquilidade do novo proprietário, o veículo deve circular sempre regularizado </dd>
+<br>
+<dd>Primeiramente cadastre seu veículo na aba <b><font style="color:FireBrick">"Cadastrar"</font></b>.</dd></font></p> 
+<div id="imag2">
+	<img src="carro2.jpg" width="200"></div>
+<br>
+<div id="imag3">
+	<img src="carro3.jpg" width="200"></div>
+</div>
+
+
+
+
+	<div id="rodape">  <p align: center><font color="white"font-size: 14pt;> <dd> Desenvolvido por: Neighty</dd>Contato:</font><font color="FireBrick" font-size: 12pt;><a href='http://www.neighty.cabanova.com/'target='_blank'><b><i> Neighty</b></i></a></p></font>
+<dd>
+<p align: center><font color="white"font-size: 8pt;> Todos os direitos reservados </p></font></dd>
+
+</div> 
+
+
+</div>
+
+ </body>
+</html>
